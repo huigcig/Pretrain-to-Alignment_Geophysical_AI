@@ -1,2 +1,2 @@
-# Geological-Prior-driven-paradigm-for-RGT-estimation-in-global-seismic-clinothems
-Open source code for "Geological-prior-driven progressive multi-stage learning paradigm for relative geologic time estimation in global seismic clinothems"
+# Geological-Prior-driven pretrain-to-alignment learning paradigm for RGT estimation
+Open source code for "Geological-Prior-driven pretrain-to-alignment learning paradigm for RGT estimation"
